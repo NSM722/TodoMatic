@@ -119,3 +119,5 @@ The `<h2>` element can become focusable by add the `tabindex="-1"` attribute to 
 ## Misc
 
 Installed the tiny [nanoid library](https://github.com/ai/nanoid "Read Docs") in order to generate unique string IDs
+
+Developed courtesy of [MDN Web docs React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started "Read docs") tutorial with a few tweaks
